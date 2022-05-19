@@ -9,5 +9,7 @@
 
         public string CallNumber { get; set; }
 
+
+        public string Author { get; set; }
     }
 }
